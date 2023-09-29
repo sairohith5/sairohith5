@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React js**
 
-- 💬 Ask me about **c, C++, JAVA, FRONTEND**
+- 💬 Ask me about **C, C++, JAVA, FRONTEND**
 
 - 📫 How to reach me **2000030211cse@gmail.com**
 
