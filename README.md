@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sai Rohith</h1>
-<h3 align="center">A passionate Student from India</h3>
+<h3 align="center">Associate DevOps Engineer</h3>
 
-- 🌱 I’m currently learning **React js**
+- 🌱 I’m currently learning **Kuberentes**
 
-- 💬 Ask me about **C, C++, JAVA, FRONTEND**
+- 💬 Ask me about **C, C++, Python, Docker, Ansible, AWS**
 
-- 📫 How to reach me **2000030211cse@gmail.com**
+- 📫 How to reach me **Sairohi9849@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/15AMD_IL2p3cGl-UJLYmW6SCQwQQywKZV/view?usp=drive_link](https://drive.google.com/file/d/15AMD_IL2p3cGl-UJLYmW6SCQwQQywKZV/view?usp=drive_link)
 
